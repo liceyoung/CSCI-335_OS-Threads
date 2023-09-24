@@ -1,4 +1,4 @@
-Suppose a is a three dimensional integer array:
+📌 Suppose a is a three dimensional integer array:
 
 a. Regenerate code and discuss the temporal locality of given code.\
 b. Regenerate amd discuss the spatial locality of given code.<br> 
