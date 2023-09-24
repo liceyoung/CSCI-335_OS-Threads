@@ -3,7 +3,7 @@ Suppose a is a three dimensional integer array:
 a. Regenerate code and discuss the temporal locality of given code. 
 b. Regenerate amd discuss the spatial locality of given code.
 c. Which nested loop has better performance? Why?
-_____________________
+_______
 ANSWER: 
 a. Temporal locality can be defined as the tendency for a memory location, once referenced, to have a high probability of being referenced again in the near future.    
 
