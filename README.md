@@ -1,6 +1,6 @@
 Suppose a is a three dimensional integer array:
 
-a. Regenerate code and discuss the temporal locality of given code.<br>  
+a. Regenerate code and discuss the temporal locality of given code<br> 
 b. Regenerate amd discuss the spatial locality of given code.<br> 
 c. Which nested loop has better performance? Why?
 _____________________
