@@ -4,7 +4,7 @@ a. Regenerate code and discuss the temporal locality of given code.
 b. Regenerate amd discuss the spatial locality of given code.
 c. Which nested loop has better performance? Why?
 _____________________
-ANSWER: 
+ANSWER: <br> 
 a. Temporal locality can be defined as the tendency for a memory location, once referenced, to have a high probability of being referenced again in the near future.<br>    
 
 By Geekforgeeks, “Temporal Locality means that a instruction which is recently executed has high chances of execution again. So the instruction is kept in cache memory such that it can be fetched easily and takes no time in searching for the same instruction.”
